@@ -123,7 +123,7 @@ To protect the server, insight-powerblock-api has a built it query rate limiter.
     }
   }
 ```
-With all the configuration options available: https://github.com/DeckerSU/api/blob/master/lib/ratelimiter.js#L10-17
+With all the configuration options available: https://github.com/DeckerSU/insight-powerblock-api/blob/master/lib/ratelimiter.js#L10-177
 
 Or disabled entirely with:
 ``` json
